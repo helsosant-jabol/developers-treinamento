@@ -7,3 +7,4 @@ Projeto de Treinamento para Desenvolvedores Boa Vista
 - Repositórios, branchs etc
 - Mantendo o código
 - Criando branchs
+- Atualizando repositório local
